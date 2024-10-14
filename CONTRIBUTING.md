@@ -1,5 +1,7 @@
 # Contributing
 
+## Bitte sende eine Email ....
+
 Your contributions are always welcome!
 
 ## Guidelines
